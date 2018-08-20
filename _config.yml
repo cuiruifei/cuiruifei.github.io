@@ -82,10 +82,11 @@ author:
   name             : "Ruifei Cui"
   avatar           : "profile.png"
   bio              : "I am an third-year PhD student at Raboud University Nijmegen, Netherlands"
-  location         : "Location"
+  location         : "Nijmegen, Netherlands"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  dblp             : "https://dblp.org/pers/hd/c/Cui:Ruifei"
+  email            : "r.cui@science.ru.nl"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "cuiruifei"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-7294-2935"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
