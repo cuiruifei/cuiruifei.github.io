@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Learning the Causal Structure of Copula Models with Latent Variables"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2018-08-06
+# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2018-08-06
+venue: 'UAI 2018'
+paperurl: 'http://auai.org/uai2018/proceedings/papers/65.pdf'
+# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+# This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://auai.org/uai2018/proceedings/papers/65.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Cui, Ruifei, Perry Groot, Moritz Schauer, and Tom Heskes. "Learning the Causal Structure of Copula Models with Latent Variables". In <i>Conference on Uncertainty in Artificial Intelligence</i> (Accepted). 2018.
