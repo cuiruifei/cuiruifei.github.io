@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruifei Cui (崔瑞飞)"
+  name             : "Ruifei Cui"
   avatar           : "profile.png"
   bio              : "PhD student at Raboud University Nijmegen"
-  location         : "Nijmegen, Netherlands"
+  location         : "Netherlands"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   dblp             : "https://dblp.org/pers/hd/c/Cui:Ruifei"
