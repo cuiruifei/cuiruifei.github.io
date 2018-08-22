@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruifei Cui"
 title_separator          : "-"
 name                     : &name "Ruifei Cui"
-description              : &description "I am a third-year PhD student supervised by Prof. Tom Heskes at Raboud University Nijmegen, Netherlands."
+description              : &description "PhD student at Raboud University Nijmegen"
 url                      : https://cuiruifei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cuiruifei/cuiruifei.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Ruifei Cui"
   avatar           : "profile.png"
-  bio              : "I am a third-year PhD student at Raboud University Nijmegen, Netherlands"
+  bio              : "PhD student at Raboud University Nijmegen"
   location         : "Nijmegen, Netherlands"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
